@@ -98,7 +98,7 @@ print("Check these outputs to verify assumptions for linear regression.")
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/81a9963a-8d9a-46cc-b68c-1b7a81856c1c)
-![image](https://github.com/user-attachments/assets/31e33a25-b6ff-41fb-bdd6-0054f9fb8bbe)
+![image](https://github.com/user-attachments/assets/278f372d-35bb-4553-a4ca-b819282c9e55)
 ![image](https://github.com/user-attachments/assets/8fe89a94-f4af-4f84-917b-a983542df24e)
 ![image](https://github.com/user-attachments/assets/277a8aac-d764-49e2-ac72-5160e23337c6)
 ![image](https://github.com/user-attachments/assets/62257f5d-63e5-45dc-8ac0-8a8ab177e410)
