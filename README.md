@@ -25,11 +25,7 @@ Use metrics like R-squared and Mean Squared Error (MSE) to evaluate how well the
 Developed by: KUMAR G. 
 RegisterNumber: 212223220048
 */
-/*
- Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: Prasana v 
-RegisterNumber: 212223040150
-*/
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
