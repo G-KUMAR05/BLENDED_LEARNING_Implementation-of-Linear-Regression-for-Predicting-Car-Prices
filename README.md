@@ -7,7 +7,6 @@ To write a program to predict car prices using a linear regression model and tes
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-
 1. Data Preparation: Load the dataset, clean it (handle missing values or outliers), and split it into features (X) and target variable (y).
 
 2.Train-Test Split: Divide the dataset into training and testing sets to evaluate the model's performance on unseen data.
