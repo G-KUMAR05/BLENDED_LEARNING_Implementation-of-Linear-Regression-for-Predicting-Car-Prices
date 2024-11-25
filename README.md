@@ -8,8 +8,11 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Algorithm
 1. Data Preparation: Load the dataset, clean it (handle missing values or outliers), and split it into features (X) and target variable (y).
+
 2.Train-Test Split: Divide the dataset into training and testing sets to evaluate the model's performance on unseen data.
+
 3.Model Building: Use the training data to build a linear regression model.
+
 4.Model Evaluation: Use metrics like R-squared and Mean Squared Error (MSE) to evaluate how well the model predicts car prices on the test set.
 
 
